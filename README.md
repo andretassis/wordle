@@ -2,6 +2,8 @@
 
 ## Projeto criado para o Desafio 7 Days of Code - Javascript e DOM da Alura
 
+O objetivo do projeto é recriar o jogo de palavras Wordle utilizando as linguagens HTMl, CSS e JavaScript.
+
 ### Parte 1
 
 Nesta etapa foi desenvolvido o HTML e o CSS básico da página.
