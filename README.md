@@ -1,4 +1,4 @@
-# Wordle
+# Wordle (Recriação)
 
 ## Projeto criado para o Desafio 7 Days of Code - Javascript e DOM da Alura
 
