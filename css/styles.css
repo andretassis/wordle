@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+:root {
+    --bg-color: #14161C;
+    --qd-brcolor: #585858;
+    --key-bgcolor: #818384;
+    --key-txcolor: #FFFFFF;
+    --logo-bgcolor: #F9FF00;
+    --font-teclado: 'Inter', sans-serif;
+}
+
+.logo {
+    background-color: var(--logo-bgcolor);
+    font-size: 36px;
+    margin-top: 22px;
+    margin-left: 71px;
+    padding: 12px 8px;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 3px;
+}
+
+.tabuleiro {
+    width: 330px;
+    height: 397px;
+    margin-top: 30px;
+}
+
+.tabuleiro--linha {
+    border: 2px solid var(--qd-brcolor);
+    width: 55px;
+    height: 55px;
+}
+
+.teclado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.teclado-meio {
+    margin: 4px 0 4px 0;
+}
+
+.tecla {
+    background-color: var(--key-bgcolor);
+    color: var(--key-txcolor);
+    font-family: var(--font-teclado);
+    font-size: 17px;
+    padding: 12px 10px;
+    text-align: center;
+    min-width: 40px;
+    max-height: 50px;
+}
+
+.img {
+    width: auto;
+    height: 17px;
+}
