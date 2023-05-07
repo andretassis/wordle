@@ -1,5 +1,7 @@
 # Wordle (Recriação)
 
+*DESENVOLVIMENTO DO PROJETO PAUSADO*
+
 ## Projeto criado para o Desafio 7 Days of Code - Javascript e DOM da Alura
 
 O objetivo do projeto é recriar o jogo de palavras Wordle utilizando as linguagens HTMl, CSS e JavaScript.
